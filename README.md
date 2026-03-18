@@ -62,11 +62,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/6739aae7-df48-4ce1-b36d-8f0afe8fe233" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/67b782e1-e888-42aa-aa7d-c2fcdb053d44" />
+
 
 ## 2. SUBTRACTION
 
@@ -107,18 +110,19 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="744" height="296" alt="image" src="https://github.com/user-attachments/assets/5c52d5fd-3964-48aa-98ed-14f226e2c5d9" />
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1409" height="1599" alt="image" src="https://github.com/user-attachments/assets/dcbfe208-25de-4c42-ba29-6661347b66a1" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/2daeeb6d-08bf-4836-a8e5-bb6517102537" />
+
 
 ## 3. MULTIPLICATION
 
@@ -156,17 +160,19 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="746" height="296" alt="image" src="https://github.com/user-attachments/assets/11b570c7-5a55-4ba2-acb6-f836e72be66a" />
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/6f1ba8b1-cbb0-432e-bc2f-322fa0abe65a" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1160" height="1374" alt="image" src="https://github.com/user-attachments/assets/cb3ab9ce-2545-4cb0-ad25-704ba5373ca2" />
+
 
 ## 4. DIVISION
 
@@ -201,17 +207,18 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="748" height="302" alt="image" src="https://github.com/user-attachments/assets/601e9f54-68ed-4299-922a-bb87699bf349" />
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/cc60e9fb-60c5-4cff-84d3-382e86f18e18" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="1350" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e565a72-3436-445c-a450-3a1d7d0584e0" />
 
 
 ## RESULT
